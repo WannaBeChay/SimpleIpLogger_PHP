@@ -1,3 +1,5 @@
-# SimpleIpLogger_PHP
+# IpLogger_PHP
 
-# Just add on a webhost , and run xD
+PHP script to "steal" IP.
+The IP its sended to a Discord WebHook.
+The script bypass VPN's (Tested with NordVPN, OutlineVPN and OpenVPN)
