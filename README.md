@@ -1,6 +1,6 @@
 # IpLogger_PHP
 
--PHP script to "steal" IP.
+-PHP script to log IP.
 
 -The IP its sended to a Discord WebHook.
 
